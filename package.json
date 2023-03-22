@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "git-github.com-Bryan-Caua-projeto-full-stack-back-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Bryan-Caua/git-github.com-Bryan-Caua-projeto-full-stack-back-end.git",
+  "author": "Bryan Caua Custodio da Silva <103138568+Bryan-Caua@users.noreply.github.com>",
+  "license": "MIT"
+}
